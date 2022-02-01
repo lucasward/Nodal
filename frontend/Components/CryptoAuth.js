@@ -16,7 +16,7 @@ const Screen = [
   {
     "Title": "Find Your Community",
     "Feature": "",
-    "Image": "https://cdn-icons.flaticon.com/png/512/4127/premium/4127852.png?token=exp=1643657291~hmac=d347a6e47a2a6eb543cc662600b96726"
+    "Image": "https://cdn-icons.flaticon.com/png/512/4531/premium/4531344.png?token=exp=1643687952~hmac=c177bea16bbada4577fc46e5131fba33"
   },
   {
     "Title": "Chat with Token Holders",
@@ -31,7 +31,7 @@ const Screen = [
   {
     "Title": "Welcome to Nodal",
     "Feature": "",
-    "Image": "https://www.meme-arsenal.com/memes/8c0c25686350812960648355c41ae7d1.jpg"
+    "Image": "https://i.imgur.com/z19GTez.jpg"
   }
 ]
 
