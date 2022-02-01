@@ -15,7 +15,7 @@ Please check the [official documentation of Moralis](https://docs.moralis.io/#us
  Clone or fork `ethereum-react-native-boilerplate`:
 
 ```sh
-git clone https://github.com/ethereum-boilerplate/ethereum-react-native-boilerplate.git
+git clone https://github.com/Nodal-io/Nodal.git
 ```
 
 Install the expo CLI globally:
